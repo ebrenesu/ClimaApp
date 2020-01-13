@@ -1,0 +1,16 @@
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/ClimaApp.csproj.App.config
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/ClimaApp.csprojAssemblyReference.cache
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/Paginas/PaginaClim.xaml.g.cs
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/ClimaApp.AssemblyInfoInputs.cache
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/ClimaApp.AssemblyInfo.cs
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/bin/Debug/netstandard2.0/ClimaApp.dll.config
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/bin/Debug/netstandard2.0/ClimaApp.deps.json
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/bin/Debug/netstandard2.0/ClimaApp.dll
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/bin/Debug/netstandard2.0/ref/ClimaApp.dll
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/bin/Debug/netstandard2.0/ClimaApp.pdb
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/ClimaApp.dll
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/ref/ClimaApp.dll
+/Volumes/Data/Proyectos/Workspaces/Xamarin/ClimaApp/ClimaApp/obj/Debug/netstandard2.0/ClimaApp.pdb
